@@ -1,5 +1,13 @@
-Name:             Cristian E. Nuno
-Email:            cristian.nuno@flatironschool.com
-Favorite Place:   Hakone, Japan
-Favorite Food:    Lou Malnati's Deep Dish Pizza
-Astrology sign:   Cancer
+Name:             Jacob J. Crabb
+Email:            jacob.crabb@flatironschool.com
+Favorite Place:   Ocean Shores
+Favorite Food:    Oats
+Astrology sign:   Taurus
+Favorite Movie:   Kung Fu Panda
+Favorite Color:   Orange
+Ninja Skills  :   Low/Medium
+Health Poitns :   120
+Mana          :   N/A
+Abilities     :   Invisibility When No One Is Looking
+Contradictions:   Varied And Many
+Charm Level   :   Unknown
